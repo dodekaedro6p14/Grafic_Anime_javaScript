@@ -1,26 +1,6 @@
-# G3M1N1_41
+# GRAFIC_Anime_JavaScript
 
 Trabajar x 1 mundo = (color & geometria);
-
-agricultura_sostenible{
-    Un futuro con Agricultura sosteible
-};
-
-bio_python{
-    Un futuro, mejoraremos en ADN de las Flores
-    celula{}
-};
-
-bio_informatica{
-    Un futuro Con energia sostenible
-    arboles_frutales{};
-    bio_energia{};
-    Cuerpo_humano{};
-    microremediacion_avanzada{};
-    Sintetizador_Bio-Digital_flores{
-
-    }
-};
 
 cubo_3D {
     ave{
@@ -29,7 +9,24 @@ cubo_3D {
     };
 
     aracnido{
+        Este es un script que muestra un cubo de cuatro species de patas que tienen un movimiento repetido de las extremidades, con diferentes longitudes de altura y distancia
 
+    };
+
+    demo {
+        Es el bosquejo de mis dibujos, con codigos enredados y ocutos
+    };
+
+    flor{
+        Una posibe o futuristica reaccion de un movimiento de apertura, que involucra petalos
+    };
+
+    helicopter{
+        Estructura con un par de elices con giro en sentido de un reloj, que podria ser la interpretacion de un ritmo helicoidal
+    };
+
+    mano{ 
+        Por Motivos de una lescion duradera, un movimiento de cirre y apertura con giro visible 
     };
 
     plano_cartesiano{
@@ -44,13 +41,13 @@ games {
     ajedrez { 
         Juego de ajedrez usuario vs IA, editable 
     };
-    portal {};
-    robot {};
+    portal {
+        En proceso de desarrollo
+    };
+    robot {
+        En proceso de desarrollo
+    };
 }
-
-gem_cuantico {
-    Lectura entretenida
-};
 
 hammer_box {
     Es mi caja de Herraminetas de codigo html, tengo una dentro de G3M1N1, como afuera
