@@ -22,7 +22,7 @@ const puntos_con_esfera = [20];
 
 // --- 5. CONEXION DE LOS PUNTOS (las 30 ARISTAS reales del dodecaedro) ---
 const conexiones = [
-    [53, 54], //[13, 12], [12, 14], [14, 15]
+    [53, 54], [4, 5], //[12, 14], [14, 15]
 /*    [0, 8], [4, 8], [4, 14], [12, 14], [0, 12],
     [1, 12], [1, 17], [16, 17], [0, 16],
     [2, 16], [2, 10], [8, 10],

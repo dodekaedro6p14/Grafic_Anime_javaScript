@@ -291,14 +291,14 @@
                     // --- NUEVO: filtro de puntos visibles (definido en el panel lateral) ---
                     if (estado.puntosVisibles && !estado.puntosVisibles.has(i)) return;
                     const p = proj(p3d);
-                    ctx.fillStyle = (i === 0) ? "rgba(255, 255, 255, 0.8)" : "rgba(255, 182, 193, 0.8)"; // "#ffffff" : "#ff006e"
+                    ctx.fillStyle = (i === 0) ? "rgba(255, 255, 255, 0.8)" : "rgba(255, 0, 0, 0.8)"; // "#ffffff" : "#ff006e"
                     ctx.beginPath();
                     ctx.arc(p.x, p.y, (i === 0) ? 2 : 1.5, 0, Math.PI * 2);
                     ctx.fill();
 
                     if (estado.mostrarIndices) {
                         ctx.fillStyle = "rgba(255, 255, 255, 0.8)";
-                        ctx.font = "12px Courier New";
+                        ctx.font = "14px Courier New";
                         if (i === 18) {
                             ctx.fillText('', p.x + 12, p.y - 12);
                         } else {

@@ -3,7 +3,7 @@
 Trabajar x 1 mundo = (color & geometria);
 
 cubo_3D {
-    ave{
+    Av3{
         Elige el plano HTML, el mas actualizado es el ultimo.
         Asegurate de tenga los script segun el motor grafico V1, v2, v3, escoje el y el ultimo control para que el programa se ejecute sin problemas
     };
